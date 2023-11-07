@@ -17,4 +17,4 @@ This is a simple React-based e-commerce web application that allows users to bro
 git clone https://github.com/omar160197/Shopping-Cart.git
 
 ## Deploy
-https://omar160197.github.io/Shopping-Cart/
+- [Demo](https://omar160197.github.io/Shopping-Cart/)
