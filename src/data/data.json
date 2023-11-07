@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Red Plate",
+      "code": "R01",
+      "price": "32.95",
+      "image": "https://assets.katomcdn.com/q_auto,f_auto/products/028/028-4350105/028-4350105.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Green Plate",
+      "code": "G01",
+      "price": "24.95",
+      "image": "https://cdn.salla.sa/YezPj/N20O0lwirrytPUKGwdHd2FCs6qs7LeWlWE8ox9Is.png"
+    },
+    {
+      "id": "3",
+      "name": "Blue Plate",
+      "code": "B01",
+      "price": "7.95",
+      "image": "https://image.shutterstock.com/image-photo/empty-plate-isolated-on-white-260nw-1552862075.jpg"
+    }
+  ]
+}
