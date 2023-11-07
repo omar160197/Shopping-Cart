@@ -8,6 +8,10 @@ This is a simple React-based e-commerce web application that allows users to bro
 - Adjust product quantities in the cart.
 - Apply special offers and discounts.
 - Calculate total prices with delivery cost reductions.
+  
+## Demo
+
+You can access a live demo of the application [here](https://omar160197.github.io/Shopping-Cart/).
 
 ## Installation
 
@@ -15,6 +19,3 @@ This is a simple React-based e-commerce web application that allows users to bro
 
 ```bash
 git clone https://github.com/omar160197/Shopping-Cart.git
-
-## Deploy
-- [Demo](https://omar160197.github.io/Shopping-Cart/)
