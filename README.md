@@ -8,4 +8,3 @@ This is a simple React-based e-commerce web application that allows users to bro
 - Adjust product quantities in the cart.
 - Apply special offers and discounts.
 - Calculate total prices with delivery cost reductions.
-- Responsive design for different screen sizes.
